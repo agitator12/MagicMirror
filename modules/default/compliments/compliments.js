@@ -12,22 +12,22 @@ Module.register("compliments", {
 	defaults: {
 		compliments: {
 			anytime: [
-				"Hey there sexy!"
+				"You are exactly where you need to be."
 			],
 			morning: [
-				"Good morning, handsome!",
-				"Enjoy your day!",
-				"How was your sleep?"
+				"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water. Buddha",
+				"The search for happiness is one of the chief sources of unhappiness.",
+				"The resistance to the unpleasant situation is the root of suffering. "
 			],
 			afternoon: [
-				"Hello, beauty!",
+				"The noble-minded are calm and steady. Little people are forever fussing and fretting. Confucius",
 				"You look sexy!",
-				"Looking good today!"
+				"Life is a balance of holding on and letting go."
 			],
 			evening: [
-				"Wow, you look hot!",
-				"You look nice!",
-				"Hi, sexy!"
+				"Wherever you are, be there totally.",
+				"Life isn’t as serious as the mind makes it out to be",
+				"Do not seek the truth, only cease to cherish your opinions."
 			]
 		},
 		updateInterval: 30000,
